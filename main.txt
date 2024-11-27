@@ -1,6 +1,12 @@
+<<<<<<< HEAD
 aaaaaa
 bbb
 cccccc
+=======
+aaaa
+bbbbbb
+ccc
+>>>>>>> one
 ddd
 eee
 fff
